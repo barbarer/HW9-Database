@@ -4,7 +4,7 @@ In this homework you will read tweet information about "umsi" and from the user 
 - See HW-DB.py for more details.
 - See twitter_cache.json for the cache data that you will use for running the unittests.
 
-Upload a link to your repository on canvas to submit.  
+  
 
 Clone the project to your local computer 
   - git clone projecturl
@@ -16,3 +16,4 @@ Clone the project to your local computer
   - git commit -m "Explanation of what you have added"
 - Do a push to put your changes on your fork of this repo on github.  You don't have to do a pull request.  
   - git push -u origin master
+- Upload a link to your repository on canvas to submit.
